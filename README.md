@@ -9,5 +9,5 @@ git clone github.com/zlipperzz/all-my-wallpapers
 ```
 For hyprpaper
 
-in your hyprpaper config file chang the path to the path of the wallpaper you want
+in your hyprpaper config file change the path to the path of the wallpaper you want
 
